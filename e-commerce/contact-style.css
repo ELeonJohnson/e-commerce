@@ -1,0 +1,67 @@
+﻿div.container {
+    max-width: 100%;
+    background-color: #F1F1F2;
+}
+
+a.navbar-brand {
+    font-family: 'Cedarville Cursive', cursive;
+    color: black;
+}
+
+a.nav-link {
+    font-family: 'Lato', sans-serif;
+}
+
+a.dropdown-item.red-sale {
+    background-color: red;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #F1F1F2 !important;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
+hr {
+    width: 100%;
+}
+
+h3 {
+    font-family: 'Cedarville Cursive', cursive;
+    color: black;
+}
+
+span.input-group-addon {
+    margin-top: 6px;
+    margin-right: 20px;
+}
+
+.new-to-1 {
+    list-style-type: none;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+div.row {
+    padding-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+p#footer-designer {
+    color: black;
+}
+
+form.col-sm-10 {
+    padding-bottom: 40px;
+}
+

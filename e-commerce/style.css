@@ -1,13 +1,23 @@
-﻿
-
-div.container {
-    background-color: #9CBAAA;
+﻿div.container {
+    max-width: 100%;
+    background-color: #F1F1F2;
 }
 
-h4#ecommerce-brand {
+a.navbar-brand {
     font-family: 'Cedarville Cursive', cursive;
-    text-align: center;
     color: black;
+}
+
+a.nav-link {
+    font-family: 'Lato', sans-serif;
+}
+
+a.dropdown-item.red-sale {
+    background-color: red;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #F1F1F2 !important;
 }
 
 
@@ -21,7 +31,9 @@ a:hover {
     color: black;
     text-shadow: 0 0 10px rgba(0,0,0,0.4);
     font-family: 'Cedarville Cursive', cursive;
+    padding-top: 65px;
 }
+
 
 .jumbotron {
     background-image: url(https://source.unsplash.com/v1VB91uuyaE);
@@ -84,7 +96,7 @@ p.new-collection-button {
 
 .thumbnail {
     display: inline-block;
-    background-color: #F7FFF7;
+    background-color: #BCBABE;
     border-radius: 10px;
 }
 
